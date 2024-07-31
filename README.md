@@ -5,7 +5,8 @@ is the most basic form of computer code, consisting of two numbers: 0 and 1. The
 
 
 
-## Decimal numerals represented by binary digits
+## Decimal numerals represented by binary Digits
+
 ####decimal	binary	conversion
 
 0	0	0 ( 20 )
