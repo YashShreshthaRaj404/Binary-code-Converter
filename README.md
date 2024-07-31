@@ -298,6 +298,5 @@ Here are the decimal numbers from zero to 20 and their binary equivalents.
 
 1010
 
----
+![logo](https://github.com/YashShreshthaRaj404/binary_code/blob/main/non_printing_ascii_control_codes-f.png)
 
----
