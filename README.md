@@ -24,10 +24,14 @@ is the most basic form of computer code, consisting of two numbers: 0 and 1. The
 ## Importance of binary code
 The binary number system is the base of all computing systems and operations. It enables devices to store, access and manipulate all types of information directed to and from the CPU or memory. This makes it possible to develop applications that enable users to do the following:
 
-•view websites;
-•create and update documents;
+•view websites
+
+•create and update documents
+
 •play games
+
 •view streaming video and other kinds of graphical information
+
 •access software and 
 perform calculations and data analyses.
 
