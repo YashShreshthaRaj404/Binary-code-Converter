@@ -300,3 +300,46 @@ Here are the decimal numbers from zero to 20 and their binary equivalents.
 
 ![logo](https://github.com/YashShreshthaRaj404/binary_code/blob/main/non_printing_ascii_control_codes-f.png)
 
+## Converting binary numbers into text characters
+
+Binary numbers can be translated into text characters using American Standard Code for Information Interchange (ASCII) codes to store information in the computer's RAM or CPU. ASCII-capable applications, like word processors, can read text information from the RAM or CPU. They can also store text information that can then be retrieved by the user at a later time. ASCII codes are stored in the ASCII table, which consists of 128 text or special characters. Each character has an associated decimal value.
+
+
+
+In the first example of the previous section, the binary number is 01101000 (decimal number 104). In ASCII, this number would produce lowercase h. To form words, more letters need to be added to h. In binary terms, this means adding more binary numbers to the binary number for h.
+
+##### Example
+The binary code for ASCII lowercase i is 01101001. So, to create the word hi, the binary number for i is added to the binary number for h. This yields the following binary number:
+
+01101000 + 01101001 = 0110100001101001
+
+In decimal terms, the decimal numbers for h and i are 104 and 105, respectively.
+
+Other common examples of binary numbers converted to ASCII text code are the following.
+
+Binary number	Decimal number	ASCII code
+110000
+
+48
+
+0
+
+1000001
+
+65
+
+A (uppercase)
+
+1111111
+
+127
+
+DEL key
+
+11011
+
+27
+
+ESC key
+
+
